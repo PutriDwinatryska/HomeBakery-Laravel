@@ -1,4 +1,4 @@
-# Laravel 9 & React js - Ecommerce application
+#Kelompok 7 Framework
 
 ## Screenshots
 
